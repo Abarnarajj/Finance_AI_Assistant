@@ -56,9 +56,9 @@ This will automatically download the model to your local machine. You can also u
 ---
 
 ## 🧑‍🎓 How to Use
-Type any finance-related question in the input box 💬
-Get accurate, and helpful answers to your queries 🎯
-Explore different financial topics like investments, loans, stocks, banking, and more 💳📉
+1. Type any finance-related question in the input box 💬
+2. Get accurate, and helpful answers to your queries 🎯
+3. Explore different financial topics like investments, loans, stocks, banking, and more 💳📉
 
 ---
 ### Screenshots:
