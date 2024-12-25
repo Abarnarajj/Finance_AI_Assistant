@@ -23,8 +23,8 @@ Welcome to the **Finance AI Assistant** project! This is a conversational AI ass
 ## 🔧 Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/finance-ai-assistant.git
-   cd finance-ai-assistant
+   git clone https://github.com/your-username/Finance-AI-Assistant.git
+   cd Finance-AI-Assistant
    
 2. **Install Dependencies**: Install the required libraries by running:
    ```bash
