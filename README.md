@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3.x-orange?logo=gradio&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-orange?logo=huggingface&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?logo=opensourceinitiative&logoColor=white)
+
 # Finance AI Assistant 🤖💰
 
 Welcome to the **Finance AI Assistant** project! This is a conversational AI assistant that helps you with finance-related queries, such as investments, stock market insights, banking, taxes, loans, and much more. The model has been fine-tuned to deliver accurate and informative responses to your financial questions.
