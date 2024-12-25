@@ -26,11 +26,11 @@ Welcome to the **Finance AI Assistant** project! This is a conversational AI ass
    git clone https://github.com/your-username/finance-ai-assistant.git
    cd finance-ai-assistant
    
-2.**Install Dependencies**: Install the required libraries by running:
+2. **Install Dependencies**: Install the required libraries by running:
    ```bash
       pip install -r requirements.txt
 
-3.**Download the Pre-trained Model**: To download the fine-tuned Mistral Alpaca model, you can use the following code:
+3. **Download the Pre-trained Model**: To download the fine-tuned Mistral Alpaca model, you can use the following code:
    ```bash
    from transformers import AutoTokenizer, AutoModelForCausalLM
 
@@ -62,7 +62,7 @@ Explore different financial topics like investments, loans, stocks, banking, and
 ### Screenshots:
 ![Screenshot 2024-12-25 105345](https://github.com/user-attachments/assets/a8944000-d4b4-4bf6-8414-b88df190c79b)
 ---
-📜 License
+### 📜 License
 This project is open-source and available under the MIT License. See the LICENSE file for more details.
 
 
