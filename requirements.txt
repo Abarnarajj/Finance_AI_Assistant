@@ -1,0 +1,1 @@
+pip install accelerate peft bitsandbytes trl py7zr auto-gptq optimum gradio
