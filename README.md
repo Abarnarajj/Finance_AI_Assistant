@@ -67,7 +67,8 @@ This will automatically download the model to your local machine. You can also u
 3. Explore different financial topics like investments, loans, stocks, banking, and more 💳📉
 
 ---
-### Screenshots:
+
+### 📸 Output Preview
 ![Screenshot 2024-12-25 105345](https://github.com/user-attachments/assets/a8944000-d4b4-4bf6-8414-b88df190c79b)
 ---
 ### 📜 License
